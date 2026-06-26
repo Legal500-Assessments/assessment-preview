@@ -5,7 +5,7 @@ A monorepo containing a React web application and REST API server for ranking yo
 ## Project Structure
 
 ```
-legal500-assessment/
+legal500-preview/
 ├── packages/
 │   ├── server/     # REST API server
 │   └── web/        # React web application
